@@ -1,0 +1,46 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #e67eb7;
+}
+
+.container {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    width: 50%;
+    margin: auto;
+}
+
+#generate {
+    background-color: #ebadcf;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#generate:hover {
+    background-color: #41072d;
+}
+
+#passwords {
+    display: flex;
+    color: #41072d;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px;
+}
+
+p.password {
+    margin: 5px;
+    width: 30%;
+    background-color: #ebadcf;
+    padding: 10px 8px 0px 8px;
+    border-radius: 3px;
+    height: 30px;
+    text-align: center;
+}
