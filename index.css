@@ -2,6 +2,7 @@ html, body {
     margin: 0;
     padding: 0;
     background-color: #e67eb7;
+    font-size: 26px;
 }
 
 .container {
@@ -37,7 +38,7 @@ html, body {
 
 p.password {
     margin: 5px;
-    width: 30%;
+    width: 40%;
     background-color: #ebadcf;
     padding: 10px 8px 0px 8px;
     border-radius: 3px;
