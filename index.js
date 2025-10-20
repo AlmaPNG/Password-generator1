@@ -1,4 +1,3 @@
-generate = document.getElementById("generate")
 passwordOne = document.getElementById("password1")
 passwordTwo = document.getElementById("password2")
 passwordThree = document.getElementById("password3")
